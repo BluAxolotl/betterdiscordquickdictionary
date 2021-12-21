@@ -1,0 +1,2 @@
+# betterdiscordquickdictionary
+QuickDictionaryBD
